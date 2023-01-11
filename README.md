@@ -1,5 +1,9 @@
 # HebrewDatasets  
 
+Every comment in this dataset tagged by two independent taggers.
+Comments without agreement - tagged by additional 3 independent taggers(total of 5)
+Comments with agreement - we took ~10% of the sentences and tagged them again with another tagger
+
 ## Dataset fields  
 * id
 * text - the comment text
