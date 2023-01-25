@@ -41,3 +41,15 @@ tags count by class:
 | c1 | 1632 |
 | c2 | 4808 |
 
+tags count by sentiment and category:  
+| category |  tag |  cnt |  
+| :--- | :--- |  :--- |
+|ECONOMY|   ח |       4164|  
+|  |        נ|       5973 |  
+|  |        ש|      30786 |  
+|NEWS|      ח |       1147 |  
+|   |       נ|        956 |  
+|    |      ש|      22802 |  
+|sport|     ח |       1671 |  
+|     |     נ|        399 |  
+|      |    ש|       7253 |  
