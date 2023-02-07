@@ -53,3 +53,9 @@ tags count by sentiment and category:
 |sport|     ח |       1671 |  
 |     |     נ|        399 |  
 |      |    ש|       7253 |  
+
+
+## Sources  
+The sentences in this dataset collected from comments posted on news websites. Crawler downloaded all the comments, and then crowd members rewrite the comments, and filter out invalid comments.  
+All the  sentences were annotated by crowd members(2-5 annotators) to sentiment: positive, negative or neutral (they also marked invalid sentences, as second pass).  
+
